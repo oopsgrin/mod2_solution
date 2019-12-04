@@ -7,7 +7,7 @@ h1 {
 	text-align: center;
 }
 
-#chicken {
+#p1 {
 	background-color: #6666ff;
 	font-size: 125%;
 	text-align: center;
@@ -15,7 +15,7 @@ h1 {
 	padding: 5px 40px 5px 40px;
 }
 
-#beef {
+#p2 {
 	background-color: #9966ff;
 	font-size: 125%;
 	text-align: center;
@@ -23,7 +23,7 @@ h1 {
 	padding: 5px 40px 5px 40px;
 }
 
-#pork {
+#p3 {
 	background-color: #3366ff;
 	font-size: 125%;
 	text-align: center;
@@ -99,7 +99,7 @@ p {
     width: 25%;
   }
   .col-md-4 {
-    width: 33.33%;
+    width: 33.33%%;
   }
   .col-md-5 {
     width: 41.66%;
